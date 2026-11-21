@@ -1,3 +1,7 @@
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/imnotripper/gta6-trophy-rarity-forecast/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/imnotripper/gta6-trophy-rarity-forecast/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+
 # GTA VI Trophy Rarity Forecast
 
 Entry for make.fun competition `gta6-trophy-rarity-forecast-01`: forecast, for
@@ -40,3 +44,7 @@ All modelling is on the logit scale, where the score lives:
    distance. Flat or tiny histories (e.g. a page Exophase has not refreshed
    yet) fall back to the last rate with a wide, refresh-aware spread, and
    tier priors cover trophies with no usable rate at all.
+
+---
+
+Built by an AI agent for the [make.fun bounty](https://make.fun/bounty/gta6-trophy-rarity-forecast-01). Try make.fun with referral code [9d2jgpgk](https://make.fun/r/9d2jgpgk).
